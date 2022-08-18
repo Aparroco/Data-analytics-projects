@@ -10,7 +10,7 @@ This repository contains a collection of Analytics projects that I have carried 
 
 ## Relevant python libraries
 - **Data handling**: numpy, pandas, Apache Spark
-- **Data Visualization**: matplotlib, plotly, plotly express, seabrn
+- **Data Visualization**: matplotlib, plotly, plotly express, seabrn, bokeh
 - **Graph representation**: NetworkX
 - **Machine Learning**: Scikit-learn, SciPy, Keras
 - **Neural Language Processing**: Natural Language Toolkit (NLTK), SpaCy, StanfordNLP
