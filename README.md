@@ -8,7 +8,7 @@ This repository contains a collection of Analytics projects that I have carried 
 3. **E-commerce reviews analysis**, including topic modelling, sentiment analysis and additional insights of the reviews taken from the Brazilian e-commerce website Olist.
 
 
-## Python relevant libraries
+## Relevant python libraries
 - **Data handling**: numpy, pandas, Apache Spark
 - **Data Visualization**: matplotlib, plotly, plotly express, seabrn
 - **Graph representation**: NetworkX
