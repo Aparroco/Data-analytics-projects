@@ -14,7 +14,7 @@ This repository contains a collection of Analytics projects that I have carried 
 - **Data Visualization**: matplotlib, plotly, plotly express, seabrn, bokeh
 - **Graph representation**: NetworkX
 - **Machine Learning**: Scikit-learn, SciPy, Keras
-- **Neural Language Processing**: Natural Language Toolkit (NLTK), SpaCy, StanfordNLP
+- **Natural Language Processing**: Natural Language Toolkit (NLTK), SpaCy, StanfordNLP
 - **Probabilistic Models**: Stan
 
 
